@@ -23,7 +23,6 @@ Manage your tasks efficiently with the ToDo App. A simple and intuitive applicat
 
 ## Screenshots
 
-![ToDo App Screenshot 1](todoappss1.PNG)
 ![ToDo App Screenshot 2](todoappss2.PNG)
 
 
